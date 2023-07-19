@@ -13,7 +13,7 @@ To complete this walkthrough you'll need to have access to a billing account in 
 
 ## Workspace
 
-All work in Terra happens in a workspace. Your workspaces are listed on the [workspaces page](https://app.terra.bio/#workspaces). It also has a button to create a workspace (the plus to the right of the word Workspaces).
+All work in Terra happens in a workspace. Your workspaces are listed on the [workspaces page](https://app.terra.bio/#workspaces). It also has a button to create a workspace--the plus to the right of the word Workspaces.
 
 ![Workspaces heading with + button](resources/images/terra_screens/workspaces-heading.png)
 
