@@ -1,0 +1,9 @@
+---
+title: "Test Case"
+output: html_document
+---
+
+## Demonstrating a link
+
+...a search engine (as an example, [Google](https://www.google.com/) is a popular one) can be used...
+
