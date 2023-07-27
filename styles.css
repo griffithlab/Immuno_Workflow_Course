@@ -36,4 +36,13 @@
   background-color: RoyalBlue;
 }
 
+.figcaption {
+  font-style: italic;
+  font-size: smaller;
+}
+
+.float {
+  padding: 20px;
+}
+
 
