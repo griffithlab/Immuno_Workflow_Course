@@ -1,0 +1,3 @@
+http://genomedata.org/pmbio-workshop/fastqs/all/Exome_Norm.tar
+http://genomedata.org/pmbio-workshop/fastqs/all/Exome_Tumor.tar
+http://genomedata.org/pmbio-workshop/fastqs/all/RNAseq_Tumor.tar
