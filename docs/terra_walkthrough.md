@@ -7,6 +7,8 @@ output:
 
 # Running a Workflow in Terra
 
+![Immuno on Terra](resources/images/immuno_on_terra_logo.png)
+
 ## Prerequisites
 
 To complete this walkthrough you'll need to have access to a billing account in GCP.  The [cloud-workflows repo has more information on setting this up](https://github.com/wustl-oncology/cloud-workflows/blob/main/docs/getting_started_gcp.md).  Then, if you haven't used Terra before, you'll have to create a Terra billing project. Terra has [detailed documentation on setting this up](https://support.terra.bio/hc/en-us/articles/360026182251).
