@@ -1,4 +1,4 @@
-about
+about-this-course
 running-a-workflow-in-terra
 prerequisites
 workspace
